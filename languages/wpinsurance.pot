@@ -1,0 +1,1623 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Insurance\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-19 09:56+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: includes/widgets/wpinsurance_addons.php:298
+#: includes/widgets/wpinsurance_gallery_addons.php:132
+#: includes/widgets/wpinsurance_gallery_addons.php:148
+#: includes/widgets/wpinsurance_gallery_addons.php:163
+#: includes/widgets/wpinsurers_addons_agent.php:308
+msgid "1"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:299
+#: includes/widgets/wpinsurance_gallery_addons.php:133
+#: includes/widgets/wpinsurance_gallery_addons.php:149
+#: includes/widgets/wpinsurance_gallery_addons.php:164
+#: includes/widgets/wpinsurers_addons_agent.php:309
+msgid "2"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:300
+#: includes/widgets/wpinsurance_gallery_addons.php:134
+#: includes/widgets/wpinsurance_gallery_addons.php:150
+#: includes/widgets/wpinsurance_gallery_addons.php:165
+#: includes/widgets/wpinsurers_addons_agent.php:310
+msgid "3"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:301
+#: includes/widgets/wpinsurance_gallery_addons.php:135
+#: includes/widgets/wpinsurance_gallery_addons.php:151
+#: includes/widgets/wpinsurance_gallery_addons.php:166
+#: includes/widgets/wpinsurers_addons_agent.php:311
+msgid "4"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:302
+#: includes/widgets/wpinsurance_gallery_addons.php:136
+#: includes/widgets/wpinsurers_addons_agent.php:312
+msgid "5"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:303
+#: includes/widgets/wpinsurance_gallery_addons.php:137
+#: includes/widgets/wpinsurers_addons_agent.php:313
+msgid "6"
+msgstr ""
+
+#: wpinsurance.php:122
+#, php-format
+msgid ""
+"<strong>WP Insurance Addons for Cmb2</strong> requires %1$s\"Cmb2\"%2$s "
+"plugin to be installed and activated. Please install Cmb2 to continue."
+msgstr ""
+
+#: wpinsurance.php:115
+msgid ""
+"<strong>WP Insurance Addons for Cmb2</strong> Requires Cmb2 plugin to be "
+"active. Please activate Cmb2 to continue."
+msgstr ""
+
+#: wpinsurance.php:150
+#, php-format
+msgid ""
+"<strong>WP Insurance Addons for Elementor</strong> requires "
+"%1$s\"Elementor\"%2$s plugin to be installed and activated. Please install "
+"Elementor to continue."
+msgstr ""
+
+#: wpinsurance.php:143
+msgid ""
+"<strong>WP Insurance Addons for Elementor</strong> Requires Elementor plugin "
+"to be active. Please activate Elementor to continue."
+msgstr ""
+
+#: wpinsurance.php:116
+msgid "Activate CMB2"
+msgstr ""
+
+#: wpinsurance.php:144
+msgid "Activate Elementor"
+msgstr ""
+
+#: admin/wpinsurance_custom-metabox.php:97
+msgid "Add Another Icon"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:16
+#: admin/wpinsurance_custom-post-type.php:160
+#: admin/wpinsurance_custom-post-type.php:245
+#: admin/wpinsurance_custom-post-type.php:293
+msgid "Add New"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:159
+msgid "Add New Gallery"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:244
+#: admin/wpinsurance_custom-post-type.php:292
+msgid "Add New Item"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:15
+msgid "Add New Service"
+msgstr ""
+
+#: admin/wpinsurance_custom-metabox.php:94
+msgid "Add Second Icon"
+msgstr ""
+
+#: wpinsurance.php:236 includes/widgets/wpinsurers_addons_agent.php:28
+msgid "Agent"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:97
+msgid "Agent Image"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:89
+msgid "Agent Member Name"
+msgstr ""
+
+#: admin/wpinsurance_custom-metabox.php:80
+msgid "agent Option"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_agent.php:43
+msgid "Agent Show Option"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons_our_benefit_box.php:187
+#: includes/widgets/wpinsurance_gallery_addons.php:412
+#: includes/widgets/wpinsurers_addons_section_title.php:113
+msgid "Alignment"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:73
+msgid "All Button Text"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:243
+#: admin/wpinsurance_custom-post-type.php:291
+msgid "All Items"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:64
+msgid "All Menu Show/Hide"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:194
+#: includes/widgets/wpinsurers_addons_agent.php:189
+#: includes/widgets/wpinsurers_addons_testimonial.php:152
+msgid "Arrow"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:1063
+#: includes/widgets/wpinsurers_addons_agent.php:683
+msgid "Arrow Button"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:210
+#: includes/widgets/wpinsurers_addons_agent.php:205
+msgid "Arrow Middle"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:206
+#: includes/widgets/wpinsurers_addons_agent.php:201
+msgid "Arrow Style Middle/Top"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:211
+#: includes/widgets/wpinsurers_addons_agent.php:206
+msgid "Arrow Top"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:177
+msgid "Ascending"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_testimonial.php:95
+msgid "Author"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:167
+#: includes/widgets/wpinsurers_addons_agent.php:162
+#: includes/widgets/wpinsurers_addons_testimonial.php:127
+msgid "Auto play"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:179
+#: includes/widgets/wpinsurers_addons_agent.php:174
+#: includes/widgets/wpinsurers_addons_testimonial.php:137
+msgid "Auto play speed"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons_our_benefit_box.php:113
+msgid "Benefits Box Style"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons_our_benefit_box.php:99
+msgid "Benefits description"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons_our_benefit_box.php:74
+msgid "Benefits icon"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons_our_benefit_box.php:35
+msgid "Benefits Icon type"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons_our_benefit_box.php:48
+msgid "Benefits image"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons_our_benefit_box.php:28
+msgid "Benefits Settings"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons_our_benefit_box.php:89
+#: includes/widgets/wpinsurance_addons_our_benefit_box.php:92
+msgid "Benefits Title"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:1085
+#: includes/widgets/wpinsurance_addons.php:1192
+#: includes/widgets/wpinsurers_addons_agent.php:705
+#: includes/widgets/wpinsurers_addons_agent.php:812
+msgid "BG COlor"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:964
+#: includes/widgets/wpinsurance_addons_our_benefit_box.php:145
+msgid "BG Color"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:979
+msgid "BG Color Hover"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons_our_benefit_box.php:157
+msgid "Bg Color Hover"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:1101
+#: includes/widgets/wpinsurance_addons.php:1207
+#: includes/widgets/wpinsurance_addons_our_benefit_box.php:170
+#: includes/widgets/wpinsurers_addons_agent.php:721
+#: includes/widgets/wpinsurers_addons_agent.php:827
+#: includes/widgets/wpinsurers_addons_section_title.php:314
+msgid "Border"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_testimonial.php:537
+msgid "Border Hover"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons_our_benefit_box.php:179
+msgid "Border Hover Color"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:994
+#: includes/widgets/wpinsurance_addons.php:1108
+#: includes/widgets/wpinsurance_addons.php:1214
+#: includes/widgets/wpinsurance_gallery_addons.php:376
+#: includes/widgets/wpinsurance_gallery_addons.php:484
+#: includes/widgets/wpinsurance_gallery_addons.php:639
+#: includes/widgets/wpinsurers_addons_agent.php:492
+#: includes/widgets/wpinsurers_addons_agent.php:728
+#: includes/widgets/wpinsurers_addons_agent.php:834
+#: includes/widgets/wpinsurers_addons_testimonial.php:446
+msgid "Border Radius"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:1007
+msgid "Border Radius Hover"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:578
+msgid "Box Bg Color"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:797
+msgid "Box Bg Hover Color"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:842
+#: includes/widgets/wpinsurance_gallery_addons.php:369
+msgid "Box Border"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:902
+msgid "Box Border Hover"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:830
+msgid "Box Border Radius"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:742
+#: includes/widgets/wpinsurers_addons_agent.php:612
+msgid "Box Style"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:478
+msgid "Box Title Color"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:508
+msgid "Buttio Margin"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:461
+#: includes/widgets/wpinsurers_addons_testimonial.php:422
+msgid "Button BG Color"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_testimonial.php:520
+msgid "Button BG Hover Color"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:477
+#: includes/widgets/wpinsurance_gallery_addons.php:782
+#: includes/widgets/wpinsurers_addons_testimonial.php:439
+msgid "Button Border"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:446
+#: includes/widgets/wpinsurers_addons_testimonial.php:406
+msgid "Button Color"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:86
+msgid "Button Divider Show/Hide"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:530
+msgid "Button Divider Style"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:766
+msgid "Button Hover BG Color"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:751
+#: includes/widgets/wpinsurers_addons_testimonial.php:502
+msgid "Button Hover Color"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:496
+msgid "Button Padding"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:915
+msgid "Button Style"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:1156
+#: includes/widgets/wpinsurers_addons_agent.php:776
+msgid "Button Top Position"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:148
+#: includes/widgets/wpinsurers_addons_agent.php:154
+msgid "Carousel"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:1047
+#: includes/widgets/wpinsurers_addons_agent.php:667
+#: includes/widgets/wpinsurers_addons_testimonial.php:388
+msgid "Carousel Button"
+msgstr ""
+
+#: wpinsurance.php:183 wpinsurance.php:242 wpinsurance.php:301
+msgid "Categories"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:696
+msgid "Category Color"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:711
+msgid "Category Hover Color"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:791
+#: includes/widgets/wpinsurance_addons_our_benefit_box.php:195
+#: includes/widgets/wpinsurance_gallery_addons.php:420
+#: includes/widgets/wpinsurers_addons_section_title.php:121
+msgid "Center"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_testimonial.php:94
+msgid "Christopher Fox"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_testimonial.php:58
+msgid "Client Name"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_testimonial.php:328
+msgid "Client Say"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_testimonial.php:78
+#: includes/widgets/wpinsurers_addons_testimonial.php:81
+msgid "Client say"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:1070
+#: includes/widgets/wpinsurance_addons.php:1177
+#: includes/widgets/wpinsurers_addons_agent.php:690
+#: includes/widgets/wpinsurers_addons_agent.php:797
+msgid "COlor"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:923
+#: includes/widgets/wpinsurance_addons_our_benefit_box.php:228
+#: includes/widgets/wpinsurance_addons_our_benefit_box.php:304
+#: includes/widgets/wpinsurance_addons_our_benefit_box.php:380
+#: includes/widgets/wpinsurers_addons_section_title.php:162
+#: includes/widgets/wpinsurers_addons_section_title.php:245
+#: includes/widgets/wpinsurers_addons_testimonial.php:220
+#: includes/widgets/wpinsurers_addons_testimonial.php:278
+#: includes/widgets/wpinsurers_addons_testimonial.php:337
+msgid "Color"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:939
+msgid "Color Hover"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:294
+#: includes/widgets/wpinsurers_addons_agent.php:304
+msgid "Columns"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:39
+#: includes/widgets/wpinsurers_addons_agent.php:37
+msgid "Content"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:783
+msgid "Content Alignment"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:856
+msgid "Content Box Margin"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:867
+msgid "Content Box Padding"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:849
+msgid "Content Box Style"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:428
+#: includes/widgets/wpinsurers_addons_agent.php:422
+msgid "Content color"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:577
+msgid "Content Hover color"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:570
+msgid "Content Hover Style"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:96
+#: includes/widgets/wpinsurers_addons_agent.php:119
+msgid "Content Length"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_agent.php:84
+msgid "Content Show Option"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:46
+msgid "Content Source Option"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:361
+#: includes/widgets/wpinsurance_addons.php:421
+#: includes/widgets/wpinsurers_addons_agent.php:328
+#: includes/widgets/wpinsurers_addons_testimonial.php:204
+msgid "Content Style"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:178
+msgid "Descending"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons_our_benefit_box.php:296
+msgid "Description Style"
+msgstr ""
+
+#: admin/wpinsurance_custom-metabox.php:41
+msgid "Description Title"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:101
+msgid "Description."
+msgstr ""
+
+#: admin/wpinsurance_custom-metabox.php:85
+#: includes/widgets/wpinsurers_addons_testimonial.php:67
+#: includes/widgets/wpinsurers_addons_testimonial.php:270
+msgid "Designation"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_agent.php:387
+msgid "Designation color"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_agent.php:411
+msgid "Designation Margin"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_section_title.php:298
+msgid "Devider Style"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:541
+msgid "Divider Color"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:98
+msgid "Divider symbol"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_testimonial.php:191
+msgid "Dots"
+msgstr ""
+
+#: admin/plugin-options.php:78 admin/plugin-options.php:89
+#: admin/plugin-options.php:100
+msgid "Dropdown Options"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:91
+msgid "Edit Agent"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:162
+msgid "Edit Gallery"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:247
+#: admin/wpinsurance_custom-post-type.php:295
+msgid "Edit Item"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:18
+msgid "Edit Service"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:76
+msgid "Enter All Button Text"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:119
+msgid "Enter button text"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_testimonial.php:61
+msgid "Enter client name"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_testimonial.php:82
+msgid "Enter client say"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_testimonial.php:71
+msgid "Enter Designation"
+msgstr ""
+
+#: admin/wpinsurance_custom-metabox.php:109
+msgid "Enter Link"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_section_title.php:53
+msgid "Enter section title"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_section_title.php:63
+msgid "Enter sub title"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:101
+msgid "Enter symbol"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:24
+#: admin/wpinsurance_custom-post-type.php:168
+#: admin/wpinsurance_custom-post-type.php:253
+#: admin/wpinsurance_custom-post-type.php:301
+msgid "Featured Image"
+msgstr ""
+
+#: admin/plugin-options.php:77
+msgid "Featured Image Show/Hide"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:345
+msgid "Filter Box  Style"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:353
+msgid "Filter Box BG COlor"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:744
+msgid "Filter Button Hover/Acitive Style"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:439
+msgid "Filter Button Style"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:32
+#: admin/wpinsurance_custom-post-type.php:176
+#: admin/wpinsurance_custom-post-type.php:261
+#: admin/wpinsurance_custom-post-type.php:309
+msgid "Filter items list"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:45
+msgid "Filter Menu Show/Hide"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:38
+msgid "Filtter Options"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:287
+#: admin/wpinsurance_custom-post-type.php:288
+#: admin/wpinsurance_custom-post-type.php:312
+msgid "Footer"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:222
+msgid "Galler Title Show/Hide"
+msgstr ""
+
+#: wpinsurance.php:295 admin/wpinsurance_custom-post-type.php:155
+#: admin/wpinsurance_custom-post-type.php:156
+#: includes/widgets/wpinsurance_gallery_addons.php:31
+msgid "Gallery"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:157
+msgid "Gallery Archives"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:174
+msgid "Gallery list"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:175
+msgid "Gallery list navigation"
+msgstr ""
+
+#: admin/wpinsurance_custom-metabox.php:118
+msgid "Gallery Metaboxes"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:149
+#: includes/widgets/wpinsurers_addons_agent.php:155
+msgid "Grid"
+msgstr ""
+
+#. Author of the plugin
+msgid "HasThemes"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:239
+#: admin/wpinsurance_custom-post-type.php:240
+#: admin/wpinsurance_custom-post-type.php:264
+msgid "Header"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:1134
+#: includes/widgets/wpinsurers_addons_agent.php:754
+#: includes/widgets/wpinsurers_addons_section_title.php:332
+#: includes/widgets/wpinsurers_addons_testimonial.php:472
+msgid "Height"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:542
+#: includes/widgets/wpinsurance_addons.php:880
+#: includes/widgets/wpinsurance_addons.php:1171
+#: includes/widgets/wpinsurance_gallery_addons.php:738
+#: includes/widgets/wpinsurers_addons_agent.php:543
+#: includes/widgets/wpinsurers_addons_agent.php:791
+#: includes/widgets/wpinsurers_addons_testimonial.php:495
+msgid "Hover"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons_our_benefit_box.php:244
+#: includes/widgets/wpinsurance_addons_our_benefit_box.php:320
+#: includes/widgets/wpinsurance_addons_our_benefit_box.php:396
+msgid "Hover Color"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://demo.wphash.com/insurers/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://hasthemes.com/"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:318
+#: includes/widgets/wpinsurance_addons_our_benefit_box.php:39
+#: includes/widgets/wpinsurance_gallery_addons.php:236
+#: includes/widgets/wpinsurance_gallery_addons.php:262
+#: includes/widgets/wpinsurance_gallery_addons.php:281
+#: includes/widgets/wpinsurance_gallery_addons.php:307
+msgid "Icon"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_agent.php:469
+msgid "Icon BG COlor"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:505
+#: includes/widgets/wpinsurance_gallery_addons.php:632
+#: includes/widgets/wpinsurance_gallery_addons.php:850
+#: includes/widgets/wpinsurers_addons_agent.php:485
+#: includes/widgets/wpinsurers_addons_agent.php:602
+msgid "Icon Border"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:638
+msgid "Icon Box Hover Border"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:620
+msgid "Icon Box Title"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_agent.php:454
+msgid "Icon Color"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:460
+msgid "Icon color"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:665
+#: includes/widgets/wpinsurers_addons_agent.php:519
+msgid "Icon Height"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_agent.php:586
+msgid "Icon Hover BG COlor"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_agent.php:571
+msgid "Icon Hover COlor"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:602
+msgid "Icon Hover color"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:595
+msgid "Icon Hover Style"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:248
+#: includes/widgets/wpinsurance_gallery_addons.php:293
+msgid "Icon image"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:512
+msgid "Icon margin"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:222
+#: includes/widgets/wpinsurers_addons_agent.php:217
+#: includes/widgets/wpinsurers_addons_testimonial.php:161
+msgid "Icon Next"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:205
+msgid "Icon Options"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:526
+msgid "Icon Padding"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:237
+#: includes/widgets/wpinsurers_addons_agent.php:232
+#: includes/widgets/wpinsurers_addons_testimonial.php:176
+msgid "Icon Prev"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:213
+msgid "Icon Show/Hide"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons_our_benefit_box.php:372
+msgid "Icon Style"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:651
+#: includes/widgets/wpinsurers_addons_agent.php:505
+msgid "Icon Width"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:453
+msgid "Icon/Icon Box Style"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:237
+#: includes/widgets/wpinsurance_gallery_addons.php:282
+msgid "Image"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:319
+#: includes/widgets/wpinsurance_addons_our_benefit_box.php:40
+msgid "image"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:232
+msgid "Image popup Icon"
+msgstr ""
+
+#: admin/wpinsurance_custom-metabox.php:49
+msgid "Insert Description Here"
+msgstr ""
+
+#: admin/wpinsurance_custom-metabox.php:42
+msgid "Insert Description Title Here"
+msgstr ""
+
+#: admin/wpinsurance_custom-metabox.php:104
+msgid "insert Icon"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:28
+#: admin/wpinsurance_custom-post-type.php:172
+#: admin/wpinsurance_custom-post-type.php:257
+#: admin/wpinsurance_custom-post-type.php:305
+msgid "Insert into item"
+msgstr ""
+
+#: admin/wpinsurance_custom-metabox.php:110
+msgid "insert link here"
+msgstr ""
+
+#: admin/wpinsurance_custom-metabox.php:56
+msgid "Insert Service Icon,png,jpg,etc Here"
+msgstr ""
+
+#: admin/wpinsurance_custom-metabox.php:86
+msgid "insert title here"
+msgstr ""
+
+#: admin/wpinsurance_custom-metabox.php:63
+#: admin/wpinsurance_custom-metabox.php:124
+msgid "insert video link. ex-https://youtu.be/OJ9ejTy4J98"
+msgstr ""
+
+#: admin/wpinsurance_custom-metabox.php:69
+msgid "insert video thumbnail"
+msgstr ""
+
+#: wpinsurance.php:123
+msgid "Install Cmb2"
+msgstr ""
+
+#: wpinsurance.php:151
+msgid "Install Elementor"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:13
+msgid "Insurance : Services Box"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_section_title.php:13
+msgid "Insurance: Section Title"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_testimonial.php:13
+msgid "Insurance: Testimonial"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons_our_benefit_box.php:13
+msgid "Insurers : Benefits"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:110
+msgid "Item  Options"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:241
+#: admin/wpinsurance_custom-post-type.php:289
+msgid "Item Archives"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:790
+msgid "Item Box Hover Style"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:571
+msgid "Item Box Style"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:689
+msgid "Item Category Style"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:185
+#: includes/widgets/wpinsurers_addons_agent.php:289
+msgid "Item Gutter"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:812
+msgid "Item Link Hover Style"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:594
+msgid "Item Link Style"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:137
+msgid "Item Show Option"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:259
+#: admin/wpinsurance_custom-post-type.php:307
+msgid "Items list"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:260
+#: admin/wpinsurance_custom-post-type.php:308
+msgid "Items list navigation"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons_our_benefit_box.php:203
+#: includes/widgets/wpinsurers_addons_section_title.php:129
+msgid "Justified"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:787
+#: includes/widgets/wpinsurance_addons_our_benefit_box.php:191
+#: includes/widgets/wpinsurance_gallery_addons.php:416
+#: includes/widgets/wpinsurers_addons_section_title.php:117
+msgid "Left"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:616
+msgid "Link Icon BG Color"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:601
+msgid "Link Icon Color"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:834
+msgid "Link Icon Hover BG Color"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:819
+msgid "Link Icon Hover Color"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_testimonial.php:96
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+"Lorem Ipsum has been the industry standard dummy text. It is a long "
+"established fact that a reader will be distracted by the readable content of "
+"a page when looking at its layout."
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:808
+#: includes/widgets/wpinsurance_addons.php:1020
+#: includes/widgets/wpinsurance_addons_our_benefit_box.php:121
+#: includes/widgets/wpinsurance_addons_our_benefit_box.php:269
+#: includes/widgets/wpinsurance_addons_our_benefit_box.php:345
+#: includes/widgets/wpinsurance_addons_our_benefit_box.php:421
+#: includes/widgets/wpinsurance_gallery_addons.php:400
+#: includes/widgets/wpinsurance_gallery_addons.php:559
+#: includes/widgets/wpinsurers_addons_agent.php:641
+#: includes/widgets/wpinsurers_addons_section_title.php:89
+#: includes/widgets/wpinsurers_addons_section_title.php:203
+#: includes/widgets/wpinsurers_addons_section_title.php:270
+#: includes/widgets/wpinsurers_addons_section_title.php:343
+#: includes/widgets/wpinsurers_addons_testimonial.php:245
+#: includes/widgets/wpinsurers_addons_testimonial.php:303
+#: includes/widgets/wpinsurers_addons_testimonial.php:362
+msgid "Margin"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_testimonial.php:212
+msgid "Name"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:90
+msgid "New Agent"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:161
+msgid "New Gallery"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:246
+#: admin/wpinsurance_custom-post-type.php:294
+msgid "New Item"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:17
+msgid "New Service"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:96
+msgid "No Agent found in Trash."
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:95
+msgid "No Agent found."
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:372
+#: includes/widgets/wpinsurance_addons.php:755
+#: includes/widgets/wpinsurance_addons.php:1057
+#: includes/widgets/wpinsurance_gallery_addons.php:339
+#: includes/widgets/wpinsurers_addons_agent.php:338
+#: includes/widgets/wpinsurers_addons_agent.php:677
+#: includes/widgets/wpinsurers_addons_testimonial.php:398
+msgid "Normal"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:22
+#: admin/wpinsurance_custom-post-type.php:166
+#: admin/wpinsurance_custom-post-type.php:251
+#: admin/wpinsurance_custom-post-type.php:299
+msgid "Not found"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:23
+#: admin/wpinsurance_custom-post-type.php:167
+#: admin/wpinsurance_custom-post-type.php:252
+#: admin/wpinsurance_custom-post-type.php:300
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:159
+msgid "Number Of Columns Displayed (Large Mobile)"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:144
+msgid "Number Of Columns Displayed (Tab)"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Open Sans, translate this to 'off'. Do not translate into your own language.
+#: init.php:50
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:130
+#: includes/widgets/wpinsurers_addons_agent.php:144
+msgid "Option"
+msgstr ""
+
+#: admin/plugin-options.php:37
+msgid "Options"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:173
+msgid "Order By"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:768
+#: includes/widgets/wpinsurers_addons_agent.php:626
+msgid "Overlay BG Color"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:886
+msgid "Overlay Hover  BG Color"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:761
+#: includes/widgets/wpinsurers_addons_agent.php:619
+msgid "Overlay Style"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:819
+#: includes/widgets/wpinsurance_addons.php:1032
+#: includes/widgets/wpinsurance_addons_our_benefit_box.php:133
+#: includes/widgets/wpinsurance_addons_our_benefit_box.php:281
+#: includes/widgets/wpinsurance_addons_our_benefit_box.php:357
+#: includes/widgets/wpinsurance_addons_our_benefit_box.php:433
+#: includes/widgets/wpinsurance_gallery_addons.php:388
+#: includes/widgets/wpinsurers_addons_agent.php:652
+#: includes/widgets/wpinsurers_addons_section_title.php:101
+#: includes/widgets/wpinsurers_addons_section_title.php:215
+#: includes/widgets/wpinsurers_addons_section_title.php:282
+#: includes/widgets/wpinsurers_addons_section_title.php:355
+#: includes/widgets/wpinsurers_addons_testimonial.php:257
+#: includes/widgets/wpinsurers_addons_testimonial.php:315
+#: includes/widgets/wpinsurers_addons_testimonial.php:374
+msgid "Padding"
+msgstr ""
+
+#: admin/wpinsurance_custom-metabox.php:14
+msgid "Page Options"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:94
+msgid "Parent Agent:"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:158
+msgid "Parent Gallery:"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:242
+#: admin/wpinsurance_custom-post-type.php:290
+msgid "Parent Item:"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:14
+msgid "Parent Service:"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:340
+msgid "Play icon"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:709
+msgid "Play Icon Color"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:724
+msgid "Play Icon Hover Color"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:327
+msgid "Play Icon image"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:314
+msgid "Play Icon type"
+msgstr ""
+
+#: admin/wpinsurance_custom-metabox.php:62
+#: admin/wpinsurance_custom-metabox.php:123
+msgid "Popup Video"
+msgstr ""
+
+#: admin/plugin-options.php:58
+msgid "Post Per Page"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:285
+msgctxt "Post Type General Name"
+msgid "Footers"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:153
+msgctxt "Post Type General Name"
+msgid "Gallery"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:237
+msgctxt "Post Type General Name"
+msgid "Headers"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:9
+msgctxt "Post Type General Name"
+msgid "Services"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:286
+msgctxt "Post Type Singular Name"
+msgid "Footer"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:154
+msgctxt "Post Type Singular Name"
+msgid "Gallery"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:238
+msgctxt "Post Type Singular Name"
+msgid "Header"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:10
+msgctxt "Post Type Singular Name"
+msgid "Services"
+msgstr ""
+
+#: admin/plugin-options.php:41
+msgid "Pro Theme using this plugins."
+msgstr ""
+
+#. If there are characters in your language that are not supported by Raleway, translate this to 'off'. Do not translate into your own language.
+#: init.php:55
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:116
+msgid "Read more button Text"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:107
+msgid "Read More Show/Hide"
+msgstr ""
+
+#: admin/plugin-options.php:70
+msgid "Related Movies"
+msgstr ""
+
+#: admin/plugin-options.php:99
+msgid "Related Services Show/Hide"
+msgstr ""
+
+#: admin/plugin-options.php:68
+msgid "Related Title"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:26
+#: admin/wpinsurance_custom-post-type.php:170
+#: admin/wpinsurance_custom-post-type.php:255
+#: admin/wpinsurance_custom-post-type.php:303
+msgid "Remove featured image"
+msgstr ""
+
+#: admin/wpinsurance_custom-metabox.php:98
+msgid "Remove Icon"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:795
+#: includes/widgets/wpinsurance_addons_our_benefit_box.php:199
+#: includes/widgets/wpinsurance_gallery_addons.php:424
+#: includes/widgets/wpinsurers_addons_section_title.php:125
+msgid "Right"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:93
+msgid "Search Agent"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:165
+msgid "Search Gallery"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:250
+#: admin/wpinsurance_custom-post-type.php:298
+msgid "Search Item"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:21
+msgid "Search Service"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_section_title.php:81
+msgid "Section style"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_section_title.php:28
+msgid "Section Title"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_agent.php:74
+msgid "Select Category"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:54
+msgid "Select Item Category"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:144
+#: includes/widgets/wpinsurers_addons_agent.php:150
+msgid "Select layout"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:66
+msgid "Select Service Category"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:53
+#: includes/widgets/wpinsurers_addons_agent.php:50
+#: includes/widgets/wpinsurers_addons_testimonial.php:105
+msgid "Select Style"
+msgstr ""
+
+#: wpinsurance.php:177
+msgid "Service"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:13
+msgid "Service Archives"
+msgstr ""
+
+#: admin/wpinsurance_custom-metabox.php:55
+msgid "Service Icon"
+msgstr ""
+
+#: admin/wpinsurance_custom-metabox.php:35
+msgid "Service Option"
+msgstr ""
+
+#: admin/plugin-options.php:88
+msgid "Service Title Show/Hide"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:11
+#: admin/wpinsurance_custom-post-type.php:12
+#: includes/widgets/wpinsurance_addons.php:30
+msgid "Services"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:30
+msgid "Services list"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:31
+msgid "Services list navigation"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:25
+#: admin/wpinsurance_custom-post-type.php:169
+#: admin/wpinsurance_custom-post-type.php:254
+#: admin/wpinsurance_custom-post-type.php:302
+msgid "Set featured image"
+msgstr ""
+
+#: admin/wpinsurance_custom-metabox.php:48
+msgid "Short Description"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:117
+msgid "Show All Item Number"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:128
+msgid "Show Columns"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:252
+#: includes/widgets/wpinsurers_addons_agent.php:247
+msgid "Show Item"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:280
+#: includes/widgets/wpinsurers_addons_agent.php:275
+msgid "Show Item (Large Mobile)"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:266
+#: includes/widgets/wpinsurers_addons_agent.php:261
+msgid "Show Item (Tablet)"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:156
+#: includes/widgets/wpinsurers_addons_agent.php:63
+msgid "Show Total Item"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_section_title.php:69
+msgid "Show/Hide Border"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_agent.php:109
+msgid "Show/Hide Content"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_agent.php:100
+msgid "Show/Hide Designation"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_agent.php:91
+msgid "Show/Hide Name"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_agent.php:134
+msgid "Show/Hide Social Icon"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_testimonial.php:121
+msgid "Slider Option"
+msgstr ""
+
+#: admin/wpinsurance_custom-metabox.php:103
+msgid "Social Icon"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_agent.php:564
+msgid "Social Icon  Hover Color"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_agent.php:447
+msgid "Social Icon Style"
+msgstr ""
+
+#: admin/wpinsurance_custom-metabox.php:96
+msgid "Social Icon {#}"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:326
+msgid "Style"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_section_title.php:42
+msgid "Style Four"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:57
+#: includes/widgets/wpinsurers_addons_agent.php:54
+#: includes/widgets/wpinsurers_addons_section_title.php:39
+#: includes/widgets/wpinsurers_addons_testimonial.php:109
+msgid "Style One"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_section_title.php:41
+msgid "Style Three"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:58
+#: includes/widgets/wpinsurers_addons_agent.php:55
+#: includes/widgets/wpinsurers_addons_section_title.php:40
+#: includes/widgets/wpinsurers_addons_testimonial.php:110
+msgid "Style Two"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_section_title.php:60
+#: includes/widgets/wpinsurers_addons_section_title.php:237
+#: includes/widgets/wpinsurers_addons_section_title.php:305
+msgid "Sub Title"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_section_title.php:230
+msgid "Sub title style"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_testimonial.php:28
+#: includes/widgets/wpinsurers_addons_testimonial.php:89
+msgid "Testimonial"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_testimonial.php:38
+msgid "Testimonial Image"
+msgstr ""
+
+#: admin/plugin-options.php:59 admin/plugin-options.php:69
+msgid "Text input description"
+msgstr ""
+
+#: admin/plugin-options.php:60
+msgid "Text Input placeholder"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_section_title.php:50
+#: includes/widgets/wpinsurers_addons_section_title.php:154
+msgid "Title"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:379
+#: includes/widgets/wpinsurers_addons_agent.php:344
+msgid "Title Color"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:387
+#: includes/widgets/wpinsurers_addons_agent.php:352
+msgid "Title color"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:548
+msgid "Title Hover Color"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_agent.php:549
+msgid "Title Hover color"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:555
+msgid "Title Hover Link color"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:76
+msgid "Title Length"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:87
+msgid "Title Link Show/Hide"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:410
+#: includes/widgets/wpinsurers_addons_agent.php:375
+msgid "Title Margin"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_section_title.php:178
+msgid "title Span Color"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons_our_benefit_box.php:220
+#: includes/widgets/wpinsurers_addons_section_title.php:35
+msgid "Title Style"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_section_title.php:146
+msgid "Title style"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons_our_benefit_box.php:103
+msgid "Type your description here"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:163
+msgid "Update Gallery"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:248
+#: admin/wpinsurance_custom-post-type.php:296
+msgid "Update Item"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:19
+msgid "Update Service"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:29
+#: admin/wpinsurance_custom-post-type.php:173
+#: admin/wpinsurance_custom-post-type.php:258
+#: admin/wpinsurance_custom-post-type.php:306
+msgid "Uploaded to this item"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:27
+#: admin/wpinsurance_custom-post-type.php:171
+#: admin/wpinsurance_custom-post-type.php:256
+#: admin/wpinsurance_custom-post-type.php:304
+msgid "Use as featured image"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:679
+msgid "Video Height"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:693
+msgid "Video Overlay Color"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:277
+msgid "Video popup Icon"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:660
+#: includes/widgets/wpinsurance_addons.php:670
+msgid "Video Popup Style"
+msgstr ""
+
+#: admin/wpinsurance_custom-metabox.php:68
+msgid "Video Thumbnail"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:92
+msgid "View Agent"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:164
+msgid "View Gallery"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:249
+#: admin/wpinsurance_custom-post-type.php:297
+msgid "View Item"
+msgstr ""
+
+#: admin/wpinsurance_custom-post-type.php:20
+msgid "View Service"
+msgstr ""
+
+#: includes/widgets/wpinsurance_addons.php:1121
+#: includes/widgets/wpinsurers_addons_agent.php:741
+#: includes/widgets/wpinsurers_addons_section_title.php:322
+#: includes/widgets/wpinsurers_addons_testimonial.php:459
+msgid "Width"
+msgstr ""
+
+#. Description of the plugin
+msgid "WordPress Insurance Service Plugin"
+msgstr ""
+
+#: includes/widgets/wpinsurers_addons_agent.php:13
+msgid "WP Agent: Agent Post"
+msgstr ""
+
+#. Name of the plugin
+#: admin/admin-init.php:8
+msgid "WP Insurance"
+msgstr ""
+
+#: includes/widgets/wpinsurance_gallery_addons.php:15
+msgid "WP Insurance : Gallery"
+msgstr ""

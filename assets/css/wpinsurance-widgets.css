@@ -1,0 +1,1203 @@
+/* Custom Css */
+.wp-insurance-box{
+  margin-bottom: 40px;
+}
+.related-area-wp-insurance .wp-insurance-box {
+  margin-bottom: 0px;
+}
+.wp-insurance-image img{
+  width: 100%;
+}
+.wp-insurance-box h3 {
+  color: #6cad19;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  font-size: 18px;
+  font-weight: 600;
+  padding: 0;
+  transition: all 0.3s ease-in-out;
+  text-transform: uppercase;
+}
+.wp-insurance-content {
+  margin-top: 0;
+  padding: 20px 0;
+  padding-bottom: 0;
+}
+.wp-insurance-box p {
+  color: #666;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 24px;
+  margin: 0;
+  transition: all 0.3s ease-in-out 0s;
+}
+.wp-insurance-box h3 a{text-decoration: none;color: inherit;  transition: all 0.3s ease-in-out;}
+.wp-insurance-box h3 a:hover{color: #444;}
+/*Style 2*/
+.wp_insurance_style2 .wp-insurance-image img{
+  width: auto;
+  display: inline-block;
+}
+.wp_insurance_style2 .wp-insurance-box{
+  border: 1px solid rgb(239, 239, 239);
+  padding: 40px 20px;
+  transition: .3s;
+}
+/*style 3*/
+.wp_insurance_style2.ht_hover_box .wp-insurance-box{
+  border: 1px solid rgb(239, 239, 239);
+  padding: 40px 20px;
+  transition: .3s;
+}
+.wp_insurance_style2.ht_hover_box .wp-insurance-box {
+  border: 1px solid rgb(243, 188, 22);
+  padding: 30px 20px 20px;
+  transition:.3s;
+}
+.wp_insurance_style2.ht_hover_box .wp-insurance-box:hover {
+  border: 1px solid rgb(243, 188, 22);
+  background: rgb(243, 188, 22);
+  transition:.3s;
+}
+.wp-insurance-box i{
+  font-size: 30px;
+  color: rgb(243, 188, 22);
+  transition: all 0.3s ease-in-out;
+}
+.wp_insurance_style2.ht_hover_box .wp-insurance-box:hover i,
+ .wp_insurance_style2.ht_hover_box .wp-insurance-box:hover h3,
+  .wp_insurance_style2.ht_hover_box .wp-insurance-box:hover p{color:#fff;transition:all 0.3s ease-in-out;}
+
+/*Service Details CSS*/
+.ht-servie-details-image img{
+  width: 100%;
+}
+.ht-servie-details-image{
+  margin-bottom: 30px;
+}
+.wp-insurance-detals-content h3 {
+  font-size: 28px;
+  margin-top:0px;
+  margin-bottom: 20px;
+  padding: 0;
+  line-height: 1;
+  color: #333;
+}
+.service-active .slick-arrow {
+  background: none;
+  color: #000;
+  bottom: 50%;
+  transform: translateY(50%);
+  right: -39px;
+  font-size: 42px;
+  position: absolute;
+  cursor: pointer;
+}
+.service-active .slick-arrow.btn-prev{
+  right: auto;
+  left: -39px;
+}
+.service-active .slick-arrow:hover{
+    color: #f3bc16;
+}
+.indicator-style-two .slick-arrow {
+  border: 1px solid #666;
+  color: #666;
+  cursor: pointer;
+  font-size: 20px;
+  height: 30px;
+  left: auto;
+  line-height: 26px;
+  opacity: 1;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  top: -59px;
+  transform: translateY(0px);
+  transition: all 0.3s ease-in-out 0s;
+  width: 30px;
+}
+.indicator-style-two .slick-arrow:hover{
+    border-color: #6cad19;
+    color: #fff;
+    background: #6cad19;
+} 
+.indicator-style-two .slick-arrow.btn-prev{
+    right:45px;
+    left: auto;
+}
+.related-service-active .slick-list,.service-active .slick-list{
+  margin: 0 -10px;
+}
+.related-service-active .wp-insurance-box,.service-active .wp-insurance-box {
+  margin-left: 10px;
+  margin-right: 10px; 
+}
+.htrelated-title h3 {
+  color: #444;
+  font-size: 24px;
+  font-weight: 500;
+  margin: 0 0 30px;
+  padding: 0;
+}
+.related-area-wp-insurance {
+  margin-top: 50px;
+}
+.wpinsurance-pagination .nav-links > ul {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: -7px;
+    margin-right: -7px;
+    margin-bottom: 0;
+}
+.wpinsurance-pagination .nav-links > ul > li,
+.pagination > a,
+.page-links > span:not(.page-links-title),
+.page-links > a {
+    display: inline-block;
+    padding: 0;
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+.wpinsurance-pagination .nav-links > ul > li > a,
+.wpinsurance-pagination .nav-links > ul > li > span,
+.pagination > a,
+.page-links > span:not(.page-links-title),
+.page-links > a {
+    display: block;
+    width: 45px;
+    height: 45px;
+    padding: 0;
+    margin: 0 7px;
+    border: 1px solid #ebebeb;
+    border-radius: 2px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 45px;
+    text-align: center;
+    color: #000;
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+.pagination > a,
+.page-links > span:not(.page-links-title),
+.page-links > a {
+    display: inline-block;
+}
+.wpinsurance-pagination .nav-links > ul > li > span.current,
+.wpinsurance-pagination .nav-links > ul > li:hover a,
+.pagination > a:hover,
+.page-links > span:not(.page-links-title),
+.page-links > a:hover {
+    color: #f3bc16;
+    border-color: #f3bc16;
+}
+.wpinsurance-pagination .next.page-numbers,.wpinsurance-pagination .prev.page-numbers{
+  float: none;
+}
+/* Button Style */
+.wp-insurance-content .servbtn {
+  background: #6cad19 none repeat scroll 0 0;
+  border-color: #454545;
+  border-style: solid;
+  border-width: 0;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 13px;
+  font-weight: 700;
+  margin-top: 15px;
+  padding: 6px 15px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: all 0.2s ease-in-out 0s;
+  vertical-align: middle;
+}
+.wp-insurance-content .servbtn:hover {
+  background-color: #222845;
+  color: #ffffff;
+}
+
+/* Benefit Box Style */
+.single-benefits {
+  border: 1px solid #f1f1f1;
+  display: inline-block;
+  padding: 37px 25px 32px;
+  transition: all 0.3s ease 0s;
+}
+.single-benefits:hover {
+  background: #6cad19 none repeat scroll 0 0;
+  border: 1px solid #6cad19;
+}
+.single-benefits {
+  margin-bottom: 20px;
+}
+.single-benefits .benefits-icon {
+  color: #4fc1f0;
+  font-size: 30px;
+  margin-bottom: 25px;
+  transition: all 0.3s ease 0s;
+}
+.single-benefits .benefits-content {
+  float: left;
+  overflow: hidden;
+}
+.single-benefits .benefits-content h4 {
+  color: #383838;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  transition: all 0.3s ease 0s;
+}
+.single-benefits .benefits-content p {
+  color: #525252;
+  font-size: 14px;
+  line-height: 26px;
+  font-family: "Open Sans",sans-serif;
+}
+p:last-child {
+  margin-bottom: 0;
+}
+
+/* Testimonial Style */
+.testimonial-slider .slick-arrow {
+  background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+  border: 1px solid #999;
+  color: #666;
+  font-size: 18px;
+  height: 30px;
+  left: 0;
+  line-height: 28px;
+  margin-top: -15px;
+  opacity: 0;
+  padding: 0;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  transition: all 0.3s ease 0s;
+  visibility: hidden;
+  width: 30px;
+  z-index: 99;
+  cursor: pointer;
+  border-radius: 50px;
+}
+.testimonial-slider .slick-arrow.slick-prev {
+  left: 0;
+  right: auto;
+}
+.testimonial-slider .slick-arrow.slick-next {
+  left: auto;
+  right: 0;
+}
+.testimonial-slider:hover .slick-arrow {
+  opacity: 1;
+  visibility: visible;
+}
+.testimonial-slider .slick-arrow:hover{background: #6cad19;border-color: #6cad19;color: #fff;}
+.single-testimonial .testimonial-image {
+  border: 1px solid #ececec;
+  border-radius: 50%;
+  height: 100px;
+  margin: 0 auto 15px;
+  overflow: hidden;
+  width: 100px;
+}
+.single-testimonial .testimonial-image img {
+  border-radius: 50%;
+  overflow: hidden;
+  width: 100%;
+}
+.single-testimonial .testimonial-content h2 {
+  color: #666666;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 24px;
+  margin-bottom: 5px;
+  text-transform: capitalize;
+}
+.single-testimonial .testimonial-content span {
+  display: block;
+  font-size: 14px;
+  line-height: 22px;
+  color: #666;
+  text-transform: capitalize;
+  margin-bottom: 15px;
+}
+.single-testimonial .testimonial-content p {
+  color: #666;
+  display: block;
+  font-size: 14px;
+  margin: auto;
+  width: calc(100% - 30%);
+  font-family: "Open Sans",sans-serif;
+}
+
+.testimonial-slider ul.slick-dots{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.testimonial-slider ul.slick-dots li {
+  background: #373b3e none repeat scroll 0 0;
+  border-radius: 100%;
+  display: inline-block;
+  height: 10px;
+  margin-right: 4px;
+  width: 10px;
+  cursor: pointer;
+}
+.testimonial-slider ul.slick-dots li.slick-active{
+  background: #23252a none repeat scroll 0 0;
+}
+.testimonial-slider ul.slick-dots li button{
+  padding: 0;
+  height: inherit;
+  text-indent: -99999px;
+  line-height: 1;
+}
+.teststyle_2.single-testimonial .testimonial-image,.teststyle_2.single-testimonial .testimonial-image img {
+    border-radius: 0;
+    width: auto;
+    max-width: 100%;
+    margin: auto;
+    border: none;
+    margin-bottom: 20px;
+    width: 132px;
+    height: auto;
+}
+
+/* service area */
+.service-section .elementor-row > .elementor-element:nth-child(1) {
+  text-align: left;
+}
+.service-section .elementor-row > .elementor-element:nth-child(2) {
+  text-align: center;
+}
+.service-section .elementor-row > .elementor-element:nth-child(3) {
+  text-align: right;
+}
+.single-service {
+  border: 1px solid #f1f1f1;
+  display: inline-block;
+  margin-bottom: 20px;
+  padding: 37px 25px 32px;
+  transition: all 0.3s ease 0s;
+}
+.single-service .service-icon {
+  color: #4fc1f0;
+  font-size: 30px;
+  margin-bottom: 25px;
+  transition: all 0.3s ease 0s;
+}
+.single-service .service-icon img {}
+.single-service .service-content {
+  overflow: hidden;
+  float: left;
+}
+.single-service .service-content h4 {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+  color: #383838;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  transition: all 0.3s ease 0s;
+}
+.single-service .service-content p {
+  color: #525252;
+  font-size: 14px;
+  line-height: 26px;
+  font-family: "Open Sans",sans-serif;
+}
+.single-service-box {
+  display: block;
+  margin-bottom: 40px;
+  overflow: hidden;
+  transform-style: preserve-3d;
+}
+.single-service-box .media-body {
+  margin-top: 0;
+  padding: 20px 0 0;
+}
+.single-service-box .media-body .heading {
+  color: #6cad19;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 26px;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  margin-top: 0;
+}
+.single-service-box .servbtn {
+  border-color: #454545;
+  border-style: solid;
+  border-width: 0;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 700;
+  padding: 6px 15px;
+  text-align: center;
+  transition: all 0.2s ease-in-out 0s;
+  vertical-align: middle;
+  background: #6cad19 none repeat scroll 0 0;
+  font-size: 13px;
+  text-transform: uppercase;
+  margin-top:15px;
+  font-family: "Open Sans",sans-serif;
+}
+.single-service-box .servbtn:hover {
+  background-color: #222845;
+  color: #ffffff;
+}
+.our-service-box {
+  display: flex;
+  flex-flow: row wrap;
+}
+.services-body {
+  flex: 50%;
+  padding-right: 10px;
+}
+.services-thumbnail-big {
+  width: 50%;
+  padding-left: 10px;
+}
+.excerpt p{color: #666;}
+/* Services Details  */
+.our-services-area .services-body .heading {
+  font-size: 24px;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  position: relative;
+}
+.our-services-area .heading a:hover{color: #666;}
+.our-services-area .services-body .heading::before {
+  background: #999 none repeat scroll 0 0;
+  bottom: 0;
+  content: "";
+  height: 2px;
+  left: 0;
+  position: absolute;
+  width: 80px;
+}
+/*Responsice CSS*/
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+.elementor-section.elementor-section-boxed > .elementor-container {
+  max-width: 970px!important;
+}
+}
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.elementor-section.elementor-section-boxed > .elementor-container {
+  max-width: 750px!important;
+}
+.single-wpinsurance .page-wrapper {
+  padding-bottom: 80px;
+  padding-top: 80px;
+}
+}
+/* Tablet desktop :768px. */
+@media (max-width: 991px) {
+
+.htrelated-title h3 {
+  font-size: 23px;
+  margin: 0 0 30px;
+}
+.wp-insurance-box h3 {
+  font-size: 18px;
+}
+.wp_insurance_style2 .wp-insurance-box {
+  padding: 25px 10px;
+}
+
+}
+
+/* small mobile :320px. */
+@media (max-width: 767px) {
+  .container { width: 95% }
+  .elementor-section.elementor-section-boxed > .elementor-container {
+    max-width: 90%!important;
+  }  
+.htrelated-title h3 {
+  font-size: 22px;
+}
+.service-active.indicator-style-two .slick-arrow {
+  right: 0;
+  height: 30px;
+  width: 30px;
+  font-size: 30px;
+  line-height: 30px;
+  top: -31px;
+}
+.service-active.indicator-style-two .slick-arrow.btn-prev{
+  right: 36px;
+  left: auto;
+}
+.service-active .slick-arrow {
+  right: -20px;
+  font-size: 34px;
+}
+.service-active .slick-arrow.btn-prev {
+  left: -20px;
+}
+.wp-insurance-detals-content h3 {
+  font-size: 22px;
+  margin-bottom: 16px;
+}
+.wp_insurance_style2 .wp-insurance-box {
+
+  padding: 30px 15px;
+  transition: .3s;
+}
+}
+
+/*Service Style 2 CSS*/
+.wpinsurence_service_video_popup  {
+  box-sizing: border-box;
+  display: inline-block;
+  min-height: 408px;
+  overflow: hidden;
+  width: 100%;
+  position: relative;
+  background-size: cover!important;
+  background-position: center center!important;
+}
+.wpinsurance_popup-youtube {
+    color: #fff;
+    font-size: 60px;
+    height: 70px;
+    left: 0;
+    margin: 0 auto;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 50%;
+    transition: all 0.3s ease 0s;
+    width: 70px;
+    z-index: 2;
+    line-height: 70px;
+    transform: translateY(-50%);
+}
+.wpinsurence_service_video_popup::before {
+    background: #000;
+    position: absolute;
+    content: "";
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 1;
+    opacity: 0.8;
+}
+.wpinsurance-service_st2-category {
+    text-align: center;
+    position: relative;
+    cursor: grab;
+    margin:auto;
+}
+.service_st2_new_style .wpinsurance_indicator1 .slick-arrow{
+  opacity: 1;
+}
+.wpinsurance-service_st2-category span {
+    cursor: pointer;
+    color: #000;
+    font-size: 15px;
+    position: absolute;
+    bottom: 16px;
+    left: 0;
+    text-align: left;
+    background: #fff;
+    font-weight: 600;
+    transition: all 0.3s ease-in-out;
+    margin-left: 45px;
+    width: auto;
+    line-height: 1;
+}
+.slick-current.slick-active .wpinsurance-service_st2-category span{
+  color: #6cad19;
+}
+.slider.wpinsurance_service_st2_slider_nav {
+    margin-bottom: 97px;
+}
+.wpinsurance-service_st2-content h2 {
+    font-size: 48px;
+    color: #222845;
+    margin-top: 0;
+    font-family: roboto;
+    line-height: 1;
+    font-weight: 600;
+}
+.wpinsurance-service_st2-content p{
+  font-size: 16px;
+  color: #333;
+}
+.wpinsurance-service_st2-progress {
+    padding-right: 30px;
+}
+.wpinsurance-service_st2-content .wpinsurance-single-skill .wpinsurance-title{
+  color: #333;
+  font-size: 16px;
+  font-weight: bold;
+}
+.wpinsurance-service_st2-readmore > a{
+  margin-top: 50px;
+  padding:10px 25px;
+  background: #051b33;
+  color: #fff;
+  display: inline-block;
+}
+.wpinsurance-service_st2-readmore > a:hover{
+  background: #6cad19;
+  color: #fff;
+}
+.wpinsurance-service_st2-video-content h5 {
+    background: #6cad19;
+    color: #fff;
+    display: inline-block;
+    float: right;
+    margin-top: -40px;
+    margin-bottom: 0;
+    padding: 53px 26px 22px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.service_st2_new_style .wpinsurance_indicator1 .slick-arrow{
+  right: 0;
+  top:auto;
+}
+.service_st2_new_style .wpinsurance_indicator1 .slick-arrow.btn-prev {
+    left: 0;
+}
+.wpinsurance-icn_box {
+    max-width: 120px;
+    min-height: 120px;
+    border: 2px solid #ccc;
+    text-align: center;
+    padding-top: 18px;
+    transition: all 0.3s ease-in-out;
+}
+.wpinsurance-icn_box img {
+    display: inline-block!important;
+    filter: grayscale(100);
+    transition: all 0.3s ease-in-out;
+}
+.wpinsurance-service_st2-category:hover .wpinsurance-icn_box img,
+.wpinsurance-service_st2-category.slick-current .wpinsurance-icn_box img {
+    filter: grayscale(0);
+}
+.wpinsurance-service_st2-category:hover .wpinsurance-icn_box,
+.wpinsurance-service_st2-category.slick-current .wpinsurance-icn_box{
+  border-color:#6cad19; 
+}
+.wpinsurance-service_st2-category:hover span,
+.wpinsurance-service_st2-category.slick-current span{
+  color: #6cad19;
+}
+.service_st2_new_style .service-active .slick-list{
+  margin: 0;
+}
+
+@media only screen and (max-width: 991px) {
+.wpinsurance-service_st2-content h2 {
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+.slick-active .wpinsurance-service_st2-category::before{
+  display: none;
+}
+}
+
+@media only screen and (max-width: 767px) {
+.slider.wpinsurance_service_st2_slider_nav {
+    padding: 0 40px;
+    margin-bottom: 40px;
+}
+.wpinsurance-service_st2-video-content {
+    margin-top: 50px;
+}
+.wpinsurance-icn_box {
+margin: auto;
+}
+.wpinsurance-service_st2-category span{
+  margin-left: -15px;
+  left: 50%;
+}
+}
+/* Section Title Style */
+.section-title h1 {
+  color: #525252;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 1;
+  margin: 0;
+  text-transform: uppercase;
+}
+.section-title h1 >span{
+  color: #6cad19;
+}
+.section-title p {
+  color: #525252;
+  font-size: 14px;
+  line-height: 30px;
+  margin-bottom: 0;
+  font-family: "Open Sans",sans-serif;
+}
+.section-title > span {
+  border-bottom: 2px dashed #525252;
+  display: inline-block;
+  height: 2px;
+  margin-top: 15px;
+  position: relative;
+  width: 80px;
+}
+/*Section title style four*/
+h4.section-title-txt:before {
+    content: "";
+    height: 45px;
+    width: 45px;
+    border: 2px solid #6cad19;
+    position: absolute;
+    left: -2px;
+    top: -15px;
+    z-index: -1;
+}
+h4.section-title-txt {
+    display: inline-block;
+    position: relative;
+    padding-left: 16px;
+    background: #fff;
+    margin: 0;
+    font-size: 14px;
+    font-weight: bold;
+    color: #6cad19;
+}
+  @media only screen and (max-width: 767px) {
+
+    .section-title h1 {
+      font-size: 24px; }
+      .section-title p br{
+        display: none;
+      }
+
+
+     }
+  @media only screen and (max-width: 479px) {
+    .section-title h1 {
+      font-size: 18px; } }
+/*Agent Css*/
+.wpinsurance-agentper-title h5 {
+    margin-top: 0;
+    margin-bottom: 5px;
+    font-size: 18px;
+    color: #333;
+    font-weight: 500;
+    letter-spacing: 0;
+    text-transform: capitalize;
+    padding: 0;
+    display: inline-block;
+}
+.wpinsurance-agentper-title span{
+  display: block;
+}
+.wpinsurance-agent-thumb-img{
+  position: relative;
+  overflow: hidden;
+}
+.wpinsurance-agent-thumb-img a {
+    display: block;
+    overflow: hidden;
+}
+.wpinsurance-agent-thumb-img img{
+    width: 100%;
+}
+.wpinsurance-agent-thumb-content {
+    text-align: center;
+    padding: 20px;
+}
+.wpinsurance-agent-social:after {
+    background: #000 none repeat scroll 0 0;
+    bottom:0px;
+    content: "";
+    height: 0;
+    left: 0;
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    position: absolute;
+    text-align: center;
+    top: auto;
+    -webkit-transition: all 0.6s ease 0s;
+    transition: all 0.6s ease 0s;
+    width: 100%;
+}
+.wpinsurance-agent-social > ul li{
+    display: inline-block;
+    position: relative;
+    z-index: 9;
+}
+.wpinsurance-agent-social > ul{
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 10;
+}
+.wpinsurance-agent-social {
+    display: block;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    text-align: center;
+    top:0;
+    -webkit-transform: scaleY(0);
+            transform: scaleY(0);
+    -webkit-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+    width: 100%;
+}
+.wpinsurance-agent-single-item:hover .wpinsurance-agent-social:after {
+    height: 100%;
+    opacity: 1;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
+}
+.wpinsurance-agent-single-item:hover .wpinsurance-agent-social {
+    -webkit-transform: scaleY(1);
+            transform: scaleY(1);
+}
+.wpinsurance-agent-social > ul li a{
+    border: 1px solid #ffffff;
+    color: #ffffff;
+    display: inline-block;
+    height: 35px;
+    line-height: 35px;
+    margin: 0 8px;
+    -webkit-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+    width: 35px;
+    border-radius: 100%;
+}
+.wpinsurance-agent-social > ul li a:hover {
+    border: 1px solid #6cad19;
+    color: #fff;
+    background: #6cad19;
+}
+/*agent details*/
+.agent-details-text h1 {
+    color: #333;
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.agent-details-text > h3 {
+    color: #6cad19;
+    font-size: 18px;
+    font-weight: normal;
+    margin: 3px 0 20px;
+}
+.agent-details-text > p {
+    font-size: 14px;
+    font-weight: normal;
+    margin-bottom: 28px;
+}
+.agent-details-text > p span {
+    color: #333;
+}
+.agent-icon > ul {
+    float: right;
+}
+.agent-icon li {
+    display: inline-block;
+}
+.agent-icon a {
+    color: #9a9a9a;
+    font-size: 18px;
+    padding-left: 30px;
+    -webkit-transition: all .3s ease 0s;
+    transition: all .3s ease 0s;
+}
+.agent-icon a:hover {
+    color: #6cad19;
+}
+.agent-icon {
+    display: block;
+    overflow: hidden;
+    position: relative;
+}
+.agent-icon::before {
+    background: #eaeaea none repeat scroll 0 0;
+    bottom: 12px;
+    content: "";
+    height: 1px;
+    left: 0;
+    position: absolute;
+    width: 451px;
+}
+
+@media (max-width: 767px) {
+.agent-details-text {
+    margin-top: 30px;
+}
+.agent-details-text h1 {
+    font-size: 20px;
+}
+.agent-details-text > h3 {
+    font-size: 18px;
+    margin: 5px 0 15px;
+}
+}
+
+/*Team New Style */
+.wpinsurance_agent_st2 .wpinsurance-agent-social {
+    position: relative;
+    -webkit-transform: scaleY(1);
+    transform: scaleY(1);
+    -webkit-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+    height: auto;
+    margin-top: 19px;
+    margin-bottom: 20px;
+}
+.wpinsurance_agent_st2 .wpinsurance-agent-social > ul {
+    transform: translateY(0%);
+}
+.wpinsurance_agent_st2 .wpinsurance-agent-thumb-content {
+    position: absolute;
+    bottom: -90px;
+    height: auto;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background: rgba(108,173,25,0.81);
+    opacity: 1;
+    transition: all 0.3s ease-in-out;
+    justify-content: center;
+}
+.wpinsurance_agent_st2:hover .wpinsurance-agent-thumb-content{
+  bottom: 0;
+}
+.wpinsurance_agent_st2 .wpinsurance-agent-social:after{
+  display: none;
+}
+.wpinsurance_agent_st2 .wpinsurance-agent-social > ul li a i{
+  border-radius: 100%;
+}
+
+.wpinsurance_agent_st2:hover .wpinsurance-agent-thumb-content{
+  opacity: 1;
+}
+.fancybox-navigation button:hover{
+  background: transparent;
+  border:none;
+  outline:none;
+}
+.fancybox-navigation button:focus{
+  outline:none;
+}
+/*Carousel Button*/
+.wpinsurance_indicator1 .slick-arrow {
+    bottom: 50%;
+    transform: translateY(50%);
+    right: -46px;
+    position: absolute;
+    cursor: pointer;
+    border: 1px solid #ddd;
+    border-radius: 100%;
+    line-height: 44px;
+    text-align: center;
+    background: transparent none repeat scroll 0 0;
+    border: 1px solid #aaa;
+    border-radius: 100%;
+    color: #aaa;
+    font-size: 18px;
+    height: 44px;
+    width: 44px;
+    opacity: 0;
+    transition: all 0.3s ease-in-out;
+    z-index: 99;
+}
+.wpinsurance_indicator1 .slick-arrow.btn-prev{
+  right: auto;
+  left: -46px;
+}
+.wpinsurance_indicator1 .slick-arrow:hover{
+    color: #6cad19;
+    border-color: #6cad19;
+}
+.wpinsurance_indicator1:hover .slick-arrow{
+  opacity: 1;
+}
+
+@media (max-width: 767px) {
+
+.wpinsurance_indicator1 .slick-arrow.btn-prev{
+  right: 36px;
+left: auto;
+}
+.wpinsurance_indicator1 .slick-arrow {
+    right: 0;
+    height: 30px;
+    width: 30px;
+    font-size: 25px;
+    line-height: 25px;
+    top: -46px;
+}
+}
+
+.wpinsurance_indicator-style-two .slick-arrow{
+    opacity: 1;
+    top: -79px;
+    transform: translateY(0);
+    right: 0px;
+    left: auto;
+    width: 35px;
+    height: 35px;
+    line-height: 32px;
+    border:1px solid #000;
+    color: #000;
+    font-size: 32px;
+    position: absolute;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+    text-align: center;
+}
+.wpinsurance_indicator-style-two .slick-arrow:hover{
+    border-color: #6cad19;
+    color: #fff;
+    background: #6cad19;
+} 
+.wpinsurance_indicator-style-two .slick-arrow.btn-prev{
+    right:45px;
+    left: auto;
+}
+
+/* Gallery and Portfolio Style Css */
+.wpinsurance-filter-menu-list {
+margin-bottom: 23px;
+}
+.wpinsurance-filter-menu-list button {
+color: #333333;
+cursor: pointer;
+display: inline-block;
+font-size: 16px;
+line-height: 1;
+margin: 0 15px;
+position: relative;
+padding: 0;
+text-transform: capitalize;
+position: relative;
+outline: none;
+height: auto;
+}
+.wpinsurance-filter-menu-list button.is-checked {
+color: #1bb4b9;
+}
+.wpinsurance-filter-menu-list button:focus{
+  outline: none;
+}
+.wpinsurance-filter_item_box{
+    padding:0px;
+}
+.wpinsurance-ft_item_image {
+  display: block;
+  position: relative;
+  z-index: 2;
+  overflow: hidden;
+}
+.wpinsurance-ft_item_image::before {
+  background: #000;
+  content: "";
+  left: 0;
+  position: absolute;
+  top: 100%;
+  z-index: 1;
+  transition: all 0.3s ease-in-out;
+  pointer-events: none;
+  width: 100%;
+  height: 100%;
+}
+.wpinsurance-ft_item_image img{
+    width: 100%;
+}
+.wpinsurance-ft_item_image> a{
+  display: block;
+}
+.wpinsurance-grid-item:hover .wpinsurance-ft_item_image::before {
+  background: rgba(0,0,0,0.4);
+  top:0;
+}
+.wpinsurance-grid-item:hover .wpinsurance-ft_item_image a.icon_link {
+  opacity: 1;
+}
+.wpinsurance-ft_item_image a.icon_link {
+    background-color: transparent;
+    border-radius: 50%;
+    color: #ffffff;
+    height: 65px;
+    line-height: 65px;
+    margin: auto;
+    font-size: 24px;
+    text-align: center;
+    width: 65px;
+    z-index: 9;
+    transition: all 0.3s ease-in-out;
+    display: inline-block;
+}
+.wpinsurance-cat-wrapper {
+  position: absolute;
+  width: 100%;
+  margin: 0 auto;
+  color: #fff;
+  left: 0;
+  right: 0;
+  opacity: 0;
+  bottom:0%;
+  text-align: center;
+  visibility: hidden;
+  transition: all 0.3s ease-in-out;
+  z-index: 999;
+  padding:20px;
+  transform: translateY(50%);
+}
+.wpinsurance-cat-wrapper > a{color: #fff;}
+.wpinsurance-ft_item_image a.icon_link{
+  display: inline-block;
+}
+.wpinsurance-cat-wrapper > a:hover{color: #1bb4b9;}
+.wpinsurance-grid-item:hover .wpinsurance-cat-wrapper {
+opacity: 1;
+visibility: visible;
+bottom: 50%;
+}
+.wpinsurance-cat-wrapper h5 a{
+    color: #fff;
+}
+.wpinsurance-cat-wrapper h5{
+    font-size: 16px;
+    color: #fff
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+.wpinsurance-cat-wrapper h6{
+    font-size: 13px;
+    color: #fff;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+}
+.wplolitic_gallery_ars .wpinsurance-ft_item_image a.icon_link{
+  top: 150%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  position: absolute;
+  visibility: hidden;
+}
+.wplolitic_gallery_ars .wpinsurance-ft_item_image:hover a.icon_link{
+  top:50%;
+  visibility: visible;
+}
+body,.fancybox-enabled body{
+  margin-right: 0px!important;
+}
